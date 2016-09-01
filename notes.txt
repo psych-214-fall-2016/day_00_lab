@@ -1,0 +1,47 @@
+string1 string2
+python3 filename
+
+if name == main
+
+python somefile.py
+
+ipython run
+
+None (as a return value)
+
+str(number)
+
+-2 etc indexing.
+
+[::-1]
+
+find
+index
+replace
+
+integer division
+remainder
+
+if something:
+    then something
+
+adding lists
+
+for thing in things
+
+append
+
+sorted
+
+key
+
+tuples
+
+pop
+
+replace
+
+keys
+items
+
+
