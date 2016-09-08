@@ -1,0 +1,3 @@
+# Default parameters to test copyspecial.py script.
+# Script runs in "copyspecial" directory.
+['solution']

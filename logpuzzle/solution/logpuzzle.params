@@ -1,0 +1,3 @@
+# Default parameters to test logpuzzle.py script.
+# Script runs in "logpuzzle" directory.
+['animal_code.google.com']
