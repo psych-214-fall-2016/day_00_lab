@@ -1,5 +1,10 @@
 # Top-level solutions configuration
+
+# Only check files listed here
 listed_only=true
+
+# Make automatic check
+auto_check=true
 
 [solution.hello]
 skip_write=true

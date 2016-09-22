@@ -1,6 +1,9 @@
 # Default parameters to test babynames.py script.:
 # Script runs in "babynames" directory.
 
+# Generate automatic checks
+auto_check = true
+
 [solution.babynames]
 
 [[solution.babynames.checks]]

@@ -1,6 +1,9 @@
 # Default parameters to test logpuzzle.py script.
 # Script runs in "logpuzzle" directory.
 
+# Generate automatic checks
+auto_check = true
+
 [solution.logpuzzle]
 
 [[solution.logpuzzle.checks]]
