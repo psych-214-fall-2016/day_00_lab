@@ -1,0 +1,6 @@
+# Default parameters to test copyspecial.py script.
+# Script runs in "copyspecial" directory.
+[solution.copyspecial]
+
+[[solution.copyspecial.checks]]
+command = ["{sys_exe}", "{in_path}", "solution"]

@@ -1,3 +1,0 @@
-# Default parameters to test wordcount.py script.
-# Script runs in "basic" directory.
-[['--count', 'small.txt'], ['--topcount', 'alice.txt']]

@@ -1,0 +1,15 @@
+# Default parameters to test wordcount.py script.:
+# Script runs in "wordcount" directory.
+
+[solution.mimic]
+
+[[solution.mimic.checks]]
+command = ["{sys_exe}", "{in_path}", 'small.txt']
+
+[solution.wordcount]
+
+[[solution.wordcount.checks]]
+command = ["{sys_exe}", "{in_path}", '--count', 'small.txt']
+
+[[solution.wordcount.checks]]
+command = ["{sys_exe}", "{in_path}", '--topcount', 'alice.txt']

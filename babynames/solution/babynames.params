@@ -1,3 +1,0 @@
-# Default parameters to test babynames.py script.
-# Script runs in "babynames" directory.
-['baby1990.html', 'baby1992.html', 'baby1994.html']

@@ -1,0 +1,7 @@
+# Default parameters to test babynames.py script.:
+# Script runs in "babynames" directory.
+
+[solution.babynames]
+
+[[solution.babynames.checks]]
+command = ["{sys_exe}", "{in_path}", "baby1990.html", "baby1992.html", "baby1994.html"]

@@ -6,7 +6,6 @@ PYTHON ?= python3
 
 check:
 	$(PYTHON) tools/proc_solutions.py check
-	$(PYTHON) hello.py
 
 write:
 	$(PYTHON) tools/proc_solutions.py write

@@ -1,0 +1,7 @@
+# Default parameters to test logpuzzle.py script.
+# Script runs in "logpuzzle" directory.
+
+[solution.logpuzzle]
+
+[[solution.logpuzzle.checks]]
+command = ["{sys_exe}", "{in_path}", 'animal_code.google.com']

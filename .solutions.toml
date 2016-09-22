@@ -1,0 +1,5 @@
+# Top-level solutions configuration
+listed_only=true
+
+[solution.hello]
+skip_write=true
