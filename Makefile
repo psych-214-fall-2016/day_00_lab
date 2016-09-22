@@ -9,3 +9,6 @@ check:
 
 write:
 	$(PYTHON) tools/proc_solutions.py write
+
+write-solutions:
+	$(PYTHON) tools/proc_solutions.py write-solutions
